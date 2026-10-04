@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-guardrails](https://github.com/RLASAF12/agent-guardrails/tree/main/agent-charter) (folder `agent-charter/`, full history preserved). Archived 2026-10-04.
+
 # AgentCharter ⚖️
 
 **AI Deployment Governance Charter Generator**
